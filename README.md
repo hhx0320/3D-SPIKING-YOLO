@@ -1,2 +1,2 @@
-# 3D-SPIKING-YOLO-
+# 3D-SPIKING-YOLO
 The code will be released soon
