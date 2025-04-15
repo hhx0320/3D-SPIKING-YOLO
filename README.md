@@ -1,2 +1,2 @@
 # 3D-SPIKING-YOLO
-The code will be released soon
+The code will be published after the paper journal is determined
